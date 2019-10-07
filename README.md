@@ -14,8 +14,11 @@ _From 8:00am to 5:30pm I worked on the Udemy Advance CSS and SASS:Flexbox, Grid 
 ## What I worked on Friday the 27th
 
 _From 9:00-11:00am I met with a design lead from a digital agency about guidance on creating my UI package for my capstone._
+
 _From 11:00am-1:00pm I worked on creating a user flow map for my application._
+
 _From 1:00pm-3:30pm I researched more videos and blogs for resources on what to include in my UI package._
+
 _From 3:30pm-5:30pm I created some rough wireframes that will be in my UI pacakge._
 
 ## Site Design
